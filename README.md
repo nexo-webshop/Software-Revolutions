@@ -6,11 +6,9 @@ what we do:
 - create software, all to make the world better
 
 our products:
-- Nexo Mail
+- Multi Language developemt Platform
 
-explaination about nexo mail:
-- don't you think: my mail is slow, i can't find stuff ETC.
-we found the solution!
-search with AI to find your mails, great GUI to find tabs that you never found before in Gmail, Outlook ETC.
+explaination about Multi Language developemt Platform:
+- the biggest repository on github! several stuff ECT!
 
 # THANKS for reading!
