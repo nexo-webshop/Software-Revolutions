@@ -1,0 +1,9 @@
+{
+  "name": "MyProject",
+  "languages": ["python", "javascript"],
+  "entry": "main.py",
+  "build": {
+    "target": "native",
+    "optimization": 2
+  }
+}
